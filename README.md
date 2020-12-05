@@ -1,3 +1,3 @@
 - University student 🧑‍🎓
 - Front-end beginner.
-- Learn rust lang now.
+- Learning rust lang now.
