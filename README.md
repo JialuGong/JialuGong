@@ -1,4 +1,4 @@
 - University student 🧑‍🎓
 - Front-end beginner.
 - Learning rust lang now.🦀
-<img src="https://wakatime.com/share/@huaiyu/398be16d-c547-4f99-a97d-7355c42c0b5f.svg" style="width:50%;height:50%;"></img>
+<img src="https://wakatime.com/share/@huaiyu/02c9f1a6-4255-4096-b491-9e5564a1ea91.png" style="width:50%;"/>
